@@ -1,5 +1,7 @@
 # ContrAR-Dataset
 
+This is the official Repository of 2026 CVPR Findings paper: **_Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality_**.
+
 The dataset can be accesssed through this [link](https://drive.google.com/drive/folders/1VxW551dW0hX9zcGNt9Swx44p4zu6jCJL?usp=sharing).
 
 ## Dataset Description
